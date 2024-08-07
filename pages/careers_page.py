@@ -26,7 +26,7 @@ class CareersPage:
         self.logger.info("Teams block 'OK'")
         assert self.driver.find_element(*self.life_at_insider_block).is_displayed(), "Life at Insider block not found"
         self.logger.info("Life at Insider block 'OK'")
-#see all qa Jobs section
+#See all qa Jobs section
 
     def click_see_all_qa_jobs(self):
             self.wait_and_click_element(self.see_all_qa_jobs_button, "See all QA jobs")
@@ -42,7 +42,7 @@ class CareersPage:
             time.sleep(2)
             self.wait_and_click_element(self.filter_by_department_QA, "Filter Department with Quality Assurance")
             
-    #check for QA department loads successfully after going into link.
+#Check for QA department loads successfully after going into link.
     def assert_qa_department_selected(self):
         try:
             element = WebDriverWait(self.driver, 10).until(
@@ -85,7 +85,7 @@ class CareersPage:
         except Exception as e:
             self.logger.error(f"Unexpected error while checking jobs list: {str(e)}")
             raise
-#click element 
+#Click element 
     def wait_and_click_element(self, locator, element_name, timeout=10):
         try:
             element = WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable(locator))

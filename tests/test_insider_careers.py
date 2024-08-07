@@ -30,11 +30,10 @@ class InsiderTest(unittest.TestCase):
         duration = end_time - self.start_time
         self.logger.info(f"Test ended at: {end_time}")
         self.logger.info(f"Test duration: {duration}")
-        if hasattr(self._outcome, 'errors'):
-            result = self.defaultTestResult()
-            self._feedErrorsToResult(result, self._outcome.errors)
-        else:
-            result = getattr(self, '_outcomeForDoCleanups', self._resultForDoCleanups)
+
+        # Getting the result
+        result = self._get_test_result()
+
         error = self.list2reason(result.errors)
         failure = self.list2reason(result.failures)
         ok = not error and not failure
@@ -47,12 +46,24 @@ class InsiderTest(unittest.TestCase):
                 self.logger.error(f"Error: {error}")
             if failure:
                 self.logger.error(f"Failure: {failure}")
-        self.driver.quit()
+
+        if hasattr(self, 'driver') and self.driver:
+            self.driver.quit()
+
+        super().tearDown()  # call the tearDown method of the parent class
+
+    def _get_test_result(self):
+        if hasattr(self, '_outcome'):  # Python 3.4+
+            result = self.defaultTestResult()
+            self._outcome.result = result
+            return result
+        else:  # Python 3.2 - 3.3 +
+            return getattr(self, '_outcomeForDoCleanups', getattr(self, '_resultForDoCleanups', None))
 
     def list2reason(self, exc_list):
         if exc_list and exc_list[-1][0] is self:
             return exc_list[-1][1]
-
+        return None
     def test_insider_careers(self):
         home_page = HomePage(self.driver, self.logger)
         careers_page = CareersPage(self.driver, self.logger)

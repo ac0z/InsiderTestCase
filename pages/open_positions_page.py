@@ -25,12 +25,12 @@ class OpenPositionsPage:
             
             for index, job in enumerate(job_items, start=1):
                 try:
-                    # Extract required information for each job listing
+            # Extract required information for each job listing
                     position = job.find_element(By.XPATH, "//*[@class='position-title font-weight-bold']").text 
                     department = job.find_element(By.XPATH, "//*[@class='position-department text-large font-weight-600 text-primary']").text
                     location = job.find_element(By.XPATH, "//*[@class='position-location text-large']").text
 
-                    # Perform necessary checks
+            # Perform necessary checks
                     assert "Quality Assurance" in position, f"Job {index}: Position does not contain 'Quality Assurance'"
                     assert department == "Quality Assurance", f"Job {index}: Department is not 'Quality Assurance'"
                     assert "Istanbul, Turkey" in location, f"Job {index}: Location does not contain 'Istanbul, Turkey'"

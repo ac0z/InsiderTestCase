@@ -8,6 +8,7 @@ This project is designed to automatically test the career page of Insider. Devel
 - Presence and content of the job list
 - Filtering of Quality Assurance positions in Istanbul location
 - Functionality of "View Role" buttons
+- Creates and processes LOG files on a daily basis
 
 ## Usage
 

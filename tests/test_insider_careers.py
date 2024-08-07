@@ -78,12 +78,12 @@ class InsiderTest(unittest.TestCase):
             self.driver.get("https://useinsider.com/careers/quality-assurance/")
             
             self.logger.info("Navigated to Quality Assurance careers page")
-            # Create a sample of CareersPage
+    # Create a sample of CareersPage
             careers_page = CareersPage(self.driver, self.logger)
-            # Click 'See all QA jobs' button
+    # Click 'See all QA jobs' button
             careers_page.click_see_all_qa_jobs()
             self.logger.info("Step 3: Clicked 'See all QA jobs' successfully") 
-            # Wait for Department element to load
+    # Wait for Department element to load
             time.sleep(10)
             careers_page.assert_qa_department_selected()
             careers_page.filter_by_location()

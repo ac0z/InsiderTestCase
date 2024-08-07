@@ -26,12 +26,8 @@ cd InsiderTestCase
 ```
 pip install -r requirements.txt
 ```
-4. Navigate to the tests directory:
 
-```
-cd tests
-```   
-5. Run the test:
+4. Run the test:
 ```
 python -m unittest tests/test_insider_careers.py
 ```

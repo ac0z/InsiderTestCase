@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is designed to automatically test the career page of Insider. Developed using Selenium and Python, this test automation checks the following core functionalities:
+This project is designed to automatically test the career page of Insider. Developed using Selenium and Python 3.11, this test automation checks the following core functionalities:
 
 - Correct loading of the career page
 - Presence and content of the job list

@@ -1,2 +1,1 @@
-# InsiderTestCase
-InsiderTestCase
+python -m pip install -r .\requirements.txt  ile gerekli kütüphaneleri yükleyebilirsiniz.

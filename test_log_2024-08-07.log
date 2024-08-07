@@ -1,0 +1,1350 @@
+2024-08-07 10:56:53,474 - INFO - ==================================================
+2024-08-07 10:56:53,475 - INFO - Test started at: 2024-08-07 10:56:53.474899
+2024-08-07 10:56:56,538 - INFO - Home page opened successfully
+2024-08-07 10:56:56,538 - INFO - Step 1: Home page opened successfully
+2024-08-07 10:56:56,687 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 10:56:58,855 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 10:56:58,855 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 10:56:58,855 - ERROR - Step 2 failed: cannot access local variable 'careers_page' where it is not associated with a value
+2024-08-07 10:56:58,856 - INFO - Test ended at: 2024-08-07 10:56:58.856151
+2024-08-07 10:56:58,856 - INFO - Test duration: 0:00:05.381252
+2024-08-07 10:59:08,165 - INFO - ==================================================
+2024-08-07 10:59:08,165 - INFO - Test started at: 2024-08-07 10:59:08.165854
+2024-08-07 10:59:10,317 - INFO - Home page opened successfully
+2024-08-07 10:59:10,317 - INFO - Step 1: Home page opened successfully
+2024-08-07 10:59:10,546 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 10:59:12,589 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 10:59:12,589 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 10:59:12,632 - INFO - Step 2: page elements checked
+2024-08-07 10:59:14,110 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 10:59:15,007 - INFO - Clicked on See all QA jobs
+2024-08-07 10:59:15,007 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 10:59:16,663 - INFO - Clicked on Filter by Location
+2024-08-07 10:59:16,663 - INFO - Step 3: Clicked 'Filter by Location' successfully
+2024-08-07 10:59:16,663 - INFO - Test ended at: 2024-08-07 10:59:16.663795
+2024-08-07 10:59:16,663 - INFO - Test duration: 0:00:08.497941
+2024-08-07 11:00:02,837 - INFO - ==================================================
+2024-08-07 11:00:02,837 - INFO - Test started at: 2024-08-07 11:00:02.837744
+2024-08-07 11:00:05,672 - INFO - Home page opened successfully
+2024-08-07 11:00:05,672 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:00:05,792 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:00:07,938 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:00:07,938 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:00:07,976 - ERROR - Step 2 failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(), 'Life at Ins22222222ider')]"}
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:00:07,987 - INFO - Test ended at: 2024-08-07 11:00:07.987615
+2024-08-07 11:00:07,988 - INFO - Test duration: 0:00:05.149871
+2024-08-07 11:03:04,806 - INFO - ==================================================
+2024-08-07 11:03:04,806 - INFO - Test started at: 2024-08-07 11:03:04.806526
+2024-08-07 11:03:07,236 - INFO - Home page opened successfully
+2024-08-07 11:03:07,236 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:03:07,381 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:03:09,408 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:03:09,408 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:03:09,423 - INFO - Locations block OK
+2024-08-07 11:03:09,439 - INFO - Teams block OK
+2024-08-07 11:03:09,453 - INFO - Life at Insider block OK
+2024-08-07 11:03:09,453 - INFO - Step 2: page elements checked
+2024-08-07 11:03:10,936 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:03:11,792 - INFO - Clicked on See all QA jobs
+2024-08-07 11:03:11,792 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:03:13,414 - INFO - Clicked on Filter by Location
+2024-08-07 11:03:13,414 - INFO - Step 3: Clicked 'Filter by Location' successfully
+2024-08-07 11:03:13,414 - INFO - Test ended at: 2024-08-07 11:03:13.414206
+2024-08-07 11:03:13,414 - INFO - Test duration: 0:00:08.607680
+2024-08-07 11:15:35,218 - INFO - ==================================================
+2024-08-07 11:15:35,218 - INFO - Test started at: 2024-08-07 11:15:35.218656
+2024-08-07 11:15:37,637 - INFO - Home page opened successfully
+2024-08-07 11:15:37,637 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:15:37,755 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:15:39,806 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:15:39,806 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:15:39,822 - INFO - Locations block 'OK'
+2024-08-07 11:15:39,835 - INFO - Teams block 'OK'
+2024-08-07 11:15:39,848 - INFO - Life at Insider block 'OK'
+2024-08-07 11:15:39,849 - INFO - Step 2: page elements checked
+2024-08-07 11:15:41,335 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:15:42,228 - INFO - Clicked on See all QA jobs
+2024-08-07 11:15:42,228 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:15:43,846 - INFO - Clicked on Filter by Location
+2024-08-07 11:15:53,984 - ERROR - Failed to click on Filter Location with Istanbul: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:15:53,984 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:15:53,993 - INFO - Test ended at: 2024-08-07 11:15:53.993217
+2024-08-07 11:15:53,993 - INFO - Test duration: 0:00:18.774561
+2024-08-07 11:16:41,100 - INFO - ==================================================
+2024-08-07 11:16:41,100 - INFO - Test started at: 2024-08-07 11:16:41.100895
+2024-08-07 11:16:43,402 - INFO - Home page opened successfully
+2024-08-07 11:16:43,402 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:16:43,590 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:16:45,466 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:16:45,466 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:16:45,480 - INFO - Locations block 'OK'
+2024-08-07 11:16:45,494 - INFO - Teams block 'OK'
+2024-08-07 11:16:45,508 - INFO - Life at Insider block 'OK'
+2024-08-07 11:16:45,508 - INFO - Step 2: page elements checked
+2024-08-07 11:16:46,982 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:16:47,886 - INFO - Clicked on See all QA jobs
+2024-08-07 11:16:47,886 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:16:49,475 - INFO - Clicked on Filter by Location
+2024-08-07 11:17:05,686 - ERROR - Failed to click on Filter Location with Istanbul: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00ADD2E3]
+	(No symbol) [0x00B6A64F]
+	(No symbol) [0x00B7C686]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:17:05,687 - ERROR - Step 3 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00ADD2E3]
+	(No symbol) [0x00B6A64F]
+	(No symbol) [0x00B7C686]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:17:05,716 - INFO - Test ended at: 2024-08-07 11:17:05.716664
+2024-08-07 11:17:05,718 - INFO - Test duration: 0:00:24.615769
+2024-08-07 11:18:31,129 - INFO - ==================================================
+2024-08-07 11:18:31,130 - INFO - Test started at: 2024-08-07 11:18:31.129270
+2024-08-07 11:18:33,481 - INFO - Home page opened successfully
+2024-08-07 11:18:33,481 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:18:33,585 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:18:35,651 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:18:35,651 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:18:35,667 - INFO - Locations block 'OK'
+2024-08-07 11:18:35,681 - INFO - Teams block 'OK'
+2024-08-07 11:18:35,695 - INFO - Life at Insider block 'OK'
+2024-08-07 11:18:35,695 - INFO - Step 2: page elements checked
+2024-08-07 11:18:39,596 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:18:40,475 - INFO - Clicked on See all QA jobs
+2024-08-07 11:18:40,475 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:18:42,082 - INFO - Clicked on Filter by Location
+2024-08-07 11:19:32,277 - ERROR - Failed to click on Filter Location with Istanbul: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:19:32,277 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:19:32,278 - INFO - Test ended at: 2024-08-07 11:19:32.278174
+2024-08-07 11:19:32,278 - INFO - Test duration: 0:01:01.148904
+2024-08-07 11:27:40,817 - INFO - ==================================================
+2024-08-07 11:27:40,817 - INFO - Test started at: 2024-08-07 11:27:40.817187
+2024-08-07 11:27:42,907 - INFO - Home page opened successfully
+2024-08-07 11:27:42,907 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:27:43,078 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:27:45,100 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:27:45,100 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:27:45,115 - INFO - Locations block 'OK'
+2024-08-07 11:27:45,129 - INFO - Teams block 'OK'
+2024-08-07 11:27:45,143 - INFO - Life at Insider block 'OK'
+2024-08-07 11:27:45,143 - INFO - Step 2: page elements checked
+2024-08-07 11:27:48,595 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:27:49,432 - INFO - Clicked on See all QA jobs
+2024-08-07 11:27:49,433 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:27:51,048 - INFO - Clicked on Filter by Department
+2024-08-07 11:28:01,193 - ERROR - Failed to click on Filter Department with Quality Assurance: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:28:01,193 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:28:01,194 - INFO - Test ended at: 2024-08-07 11:28:01.194963
+2024-08-07 11:28:01,194 - INFO - Test duration: 0:00:20.377776
+2024-08-07 11:30:50,972 - INFO - ==================================================
+2024-08-07 11:30:50,972 - INFO - Test started at: 2024-08-07 11:30:50.972453
+2024-08-07 11:30:52,837 - INFO - Home page opened successfully
+2024-08-07 11:30:52,837 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:30:53,320 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:30:55,319 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:30:55,320 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:30:55,335 - INFO - Locations block 'OK'
+2024-08-07 11:30:55,349 - INFO - Teams block 'OK'
+2024-08-07 11:30:55,363 - INFO - Life at Insider block 'OK'
+2024-08-07 11:30:55,363 - INFO - Step 2: page elements checked
+2024-08-07 11:30:58,827 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:30:59,708 - INFO - Clicked on See all QA jobs
+2024-08-07 11:30:59,708 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:31:01,318 - INFO - Clicked on Filter by Department
+2024-08-07 11:31:11,467 - ERROR - Failed to click on Filter Department with Quality Assurance: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:31:11,467 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:31:11,469 - INFO - Test ended at: 2024-08-07 11:31:11.469298
+2024-08-07 11:31:11,469 - INFO - Test duration: 0:00:20.496845
+2024-08-07 11:31:27,796 - INFO - ==================================================
+2024-08-07 11:31:27,796 - INFO - Test started at: 2024-08-07 11:31:27.796279
+2024-08-07 11:31:30,774 - INFO - Home page opened successfully
+2024-08-07 11:31:30,774 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:31:30,893 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:31:33,178 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:31:33,178 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:31:33,194 - INFO - Locations block 'OK'
+2024-08-07 11:31:33,207 - INFO - Teams block 'OK'
+2024-08-07 11:31:33,221 - INFO - Life at Insider block 'OK'
+2024-08-07 11:31:33,221 - INFO - Step 2: page elements checked
+2024-08-07 11:31:34,841 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:31:35,705 - INFO - Clicked on See all QA jobs
+2024-08-07 11:31:35,705 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:31:37,766 - INFO - Clicked on Filter by Department
+2024-08-07 11:31:47,897 - ERROR - Failed to click on Filter Department with Quality Assurance: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:31:47,897 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:31:47,898 - INFO - Test ended at: 2024-08-07 11:31:47.898717
+2024-08-07 11:31:47,898 - INFO - Test duration: 0:00:20.102438
+2024-08-07 11:32:31,721 - INFO - ==================================================
+2024-08-07 11:32:31,722 - INFO - Test started at: 2024-08-07 11:32:31.721669
+2024-08-07 11:32:33,775 - INFO - Home page opened successfully
+2024-08-07 11:32:33,775 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:32:33,973 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:32:36,435 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:32:36,435 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:32:36,449 - INFO - Locations block 'OK'
+2024-08-07 11:32:36,462 - INFO - Teams block 'OK'
+2024-08-07 11:32:36,476 - INFO - Life at Insider block 'OK'
+2024-08-07 11:32:36,476 - INFO - Step 2: page elements checked
+2024-08-07 11:32:38,913 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:32:39,814 - INFO - Clicked on See all QA jobs
+2024-08-07 11:32:39,814 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:32:41,866 - INFO - Clicked on Filter by Department
+2024-08-07 11:32:52,009 - ERROR - Failed to click on Filter Department with Quality Assurance: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:32:52,009 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:32:52,010 - INFO - Test ended at: 2024-08-07 11:32:52.010265
+2024-08-07 11:32:52,010 - INFO - Test duration: 0:00:20.288596
+2024-08-07 11:33:37,051 - INFO - ==================================================
+2024-08-07 11:33:37,051 - INFO - Test started at: 2024-08-07 11:33:37.050217
+2024-08-07 11:33:39,291 - INFO - Home page opened successfully
+2024-08-07 11:33:39,291 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:33:39,403 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:33:41,427 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:33:41,427 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:33:41,443 - INFO - Locations block 'OK'
+2024-08-07 11:33:41,456 - INFO - Teams block 'OK'
+2024-08-07 11:33:41,470 - INFO - Life at Insider block 'OK'
+2024-08-07 11:33:41,470 - INFO - Step 2: page elements checked
+2024-08-07 11:33:43,146 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:33:44,012 - INFO - Clicked on See all QA jobs
+2024-08-07 11:33:44,012 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:34:04,014 - INFO - Test ended at: 2024-08-07 11:34:04.014362
+2024-08-07 11:34:04,014 - INFO - Test duration: 0:00:26.964145
+2024-08-07 11:34:35,184 - INFO - ==================================================
+2024-08-07 11:34:35,185 - INFO - Test started at: 2024-08-07 11:34:35.184024
+2024-08-07 11:34:37,363 - INFO - Home page opened successfully
+2024-08-07 11:34:37,363 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:34:37,492 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:34:39,478 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:34:39,478 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:34:39,492 - INFO - Locations block 'OK'
+2024-08-07 11:34:39,507 - INFO - Teams block 'OK'
+2024-08-07 11:34:39,522 - INFO - Life at Insider block 'OK'
+2024-08-07 11:34:39,522 - INFO - Step 2: page elements checked
+2024-08-07 11:34:41,021 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:34:41,906 - INFO - Clicked on See all QA jobs
+2024-08-07 11:34:41,907 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:35:01,961 - INFO - Clicked on Filter by Department
+2024-08-07 11:35:12,094 - ERROR - Failed to click on Filter Department with Quality Assurance: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:35:12,094 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:35:12,095 - INFO - Test ended at: 2024-08-07 11:35:12.095909
+2024-08-07 11:35:12,095 - INFO - Test duration: 0:00:36.911885
+2024-08-07 11:35:41,412 - INFO - ==================================================
+2024-08-07 11:35:41,412 - INFO - Test started at: 2024-08-07 11:35:41.412736
+2024-08-07 11:35:43,574 - INFO - Home page opened successfully
+2024-08-07 11:35:43,574 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:35:43,775 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:35:45,817 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:35:45,817 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:35:45,832 - INFO - Locations block 'OK'
+2024-08-07 11:35:45,845 - INFO - Teams block 'OK'
+2024-08-07 11:35:45,861 - INFO - Life at Insider block 'OK'
+2024-08-07 11:35:45,861 - INFO - Step 2: page elements checked
+2024-08-07 11:35:47,323 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:35:48,192 - INFO - Clicked on See all QA jobs
+2024-08-07 11:35:48,192 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:35:58,247 - INFO - Clicked on Filter by Department
+2024-08-07 11:36:08,369 - ERROR - Failed to click on Filter Department with Quality Assurance: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:36:08,369 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:36:08,370 - INFO - Test ended at: 2024-08-07 11:36:08.370368
+2024-08-07 11:36:08,370 - INFO - Test duration: 0:00:26.957632
+2024-08-07 11:42:08,188 - INFO - ==================================================
+2024-08-07 11:42:08,188 - INFO - Test started at: 2024-08-07 11:42:08.188392
+2024-08-07 11:42:10,202 - INFO - Home page opened successfully
+2024-08-07 11:42:10,202 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:42:10,303 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:42:12,315 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:42:12,315 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:42:12,330 - INFO - Locations block 'OK'
+2024-08-07 11:42:12,344 - INFO - Teams block 'OK'
+2024-08-07 11:42:12,358 - INFO - Life at Insider block 'OK'
+2024-08-07 11:42:12,358 - INFO - Step 2: page elements checked
+2024-08-07 11:42:13,777 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:42:14,610 - INFO - Clicked on See all QA jobs
+2024-08-07 11:42:14,610 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:42:24,612 - ERROR - Step 3 failed: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B42C21]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:42:24,614 - INFO - Test ended at: 2024-08-07 11:42:24.614872
+2024-08-07 11:42:24,614 - INFO - Test duration: 0:00:16.426480
+2024-08-07 11:44:48,057 - INFO - ==================================================
+2024-08-07 11:44:48,057 - INFO - Test started at: 2024-08-07 11:44:48.057762
+2024-08-07 11:44:50,865 - INFO - Home page opened successfully
+2024-08-07 11:44:50,865 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:44:51,006 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:44:53,096 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:44:53,096 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:44:53,111 - INFO - Locations block 'OK'
+2024-08-07 11:44:53,125 - INFO - Teams block 'OK'
+2024-08-07 11:44:53,138 - INFO - Life at Insider block 'OK'
+2024-08-07 11:44:53,138 - INFO - Step 2: page elements checked
+2024-08-07 11:44:54,627 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:44:55,484 - INFO - Clicked on See all QA jobs
+2024-08-07 11:44:55,484 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:45:05,493 - INFO - Quality Assurance department is selected
+2024-08-07 11:45:05,547 - INFO - Clicked on Filter by Location
+2024-08-07 11:45:17,678 - ERROR - Failed to click on Filter Location with Istanbul: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:45:17,678 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B7EE42]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 11:45:17,679 - INFO - Test ended at: 2024-08-07 11:45:17.679323
+2024-08-07 11:45:17,679 - INFO - Test duration: 0:00:29.621561
+2024-08-07 11:53:33,999 - INFO - ==================================================
+2024-08-07 11:53:33,999 - INFO - Test started at: 2024-08-07 11:53:33.999613
+2024-08-07 11:53:36,239 - INFO - Home page opened successfully
+2024-08-07 11:53:36,239 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:53:36,356 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:53:38,386 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:53:38,386 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:53:38,399 - INFO - Locations block 'OK'
+2024-08-07 11:53:38,412 - INFO - Teams block 'OK'
+2024-08-07 11:53:38,426 - INFO - Life at Insider block 'OK'
+2024-08-07 11:53:38,427 - INFO - Step 2: page elements checked
+2024-08-07 11:53:39,929 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:53:40,806 - INFO - Clicked on See all QA jobs
+2024-08-07 11:53:40,807 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:53:50,818 - INFO - Quality Assurance department is selected
+2024-08-07 11:53:50,879 - INFO - Clicked on Filter by Location
+2024-08-07 11:53:52,916 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 11:53:52,916 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 11:53:52,916 - INFO - Test ended at: 2024-08-07 11:53:52.916543
+2024-08-07 11:53:52,916 - INFO - Test duration: 0:00:18.916930
+2024-08-07 11:56:27,433 - INFO - ==================================================
+2024-08-07 11:56:27,433 - INFO - Test started at: 2024-08-07 11:56:27.433815
+2024-08-07 11:56:29,506 - INFO - Home page opened successfully
+2024-08-07 11:56:29,506 - INFO - Step 1: Home page opened successfully
+2024-08-07 11:56:29,687 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 11:56:32,082 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 11:56:32,082 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 11:56:32,098 - INFO - Locations block 'OK'
+2024-08-07 11:56:32,111 - INFO - Teams block 'OK'
+2024-08-07 11:56:32,124 - INFO - Life at Insider block 'OK'
+2024-08-07 11:56:32,124 - INFO - Step 2: page elements checked
+2024-08-07 11:56:33,572 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 11:56:34,488 - INFO - Clicked on See all QA jobs
+2024-08-07 11:56:34,488 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 11:56:44,496 - INFO - Quality Assurance department is selected
+2024-08-07 11:56:44,559 - INFO - Clicked on Filter by Location
+2024-08-07 11:56:46,594 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 11:56:46,594 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 11:56:51,609 - ERROR - Jobs list is empty
+2024-08-07 11:56:51,610 - ERROR - Step 3 failed: Jobs list is empty
+2024-08-07 11:56:51,612 - INFO - Test ended at: 2024-08-07 11:56:51.612090
+2024-08-07 11:56:51,612 - INFO - Test duration: 0:00:24.178275
+2024-08-07 12:01:08,847 - INFO - ==================================================
+2024-08-07 12:01:08,847 - INFO - Test started at: 2024-08-07 12:01:08.847362
+2024-08-07 12:01:19,682 - INFO - Home page opened successfully
+2024-08-07 12:01:19,682 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:01:19,759 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:01:25,713 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:01:25,713 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:01:25,728 - INFO - Locations block 'OK'
+2024-08-07 12:01:25,740 - INFO - Teams block 'OK'
+2024-08-07 12:01:25,754 - INFO - Life at Insider block 'OK'
+2024-08-07 12:01:25,754 - INFO - Step 2: page elements checked
+2024-08-07 12:01:27,272 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:01:28,152 - INFO - Clicked on See all QA jobs
+2024-08-07 12:01:28,152 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:01:38,160 - INFO - Quality Assurance department is selected
+2024-08-07 12:01:38,216 - INFO - Clicked on Filter by Location
+2024-08-07 12:01:40,250 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:01:40,250 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:01:45,251 - ERROR - Step 3 failed: 'CareersPage' object has no attribute 'assert_jobs_list_exists'
+2024-08-07 12:01:45,252 - INFO - Test ended at: 2024-08-07 12:01:45.252288
+2024-08-07 12:01:45,252 - INFO - Test duration: 0:00:36.404926
+2024-08-07 12:02:08,912 - INFO - ==================================================
+2024-08-07 12:02:08,912 - INFO - Test started at: 2024-08-07 12:02:08.912205
+2024-08-07 12:02:11,190 - INFO - Home page opened successfully
+2024-08-07 12:02:11,190 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:02:11,327 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:02:13,411 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:02:13,411 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:02:13,426 - INFO - Locations block 'OK'
+2024-08-07 12:02:13,439 - INFO - Teams block 'OK'
+2024-08-07 12:02:13,452 - INFO - Life at Insider block 'OK'
+2024-08-07 12:02:13,452 - INFO - Step 2: page elements checked
+2024-08-07 12:02:14,945 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:02:15,822 - INFO - Clicked on See all QA jobs
+2024-08-07 12:02:15,823 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:02:25,833 - INFO - Quality Assurance department is selected
+2024-08-07 12:02:25,889 - INFO - Clicked on Filter by Location
+2024-08-07 12:02:27,923 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:02:27,923 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:02:32,935 - INFO - Jobs list found with 2 job items
+2024-08-07 12:02:32,935 - INFO - Test ended at: 2024-08-07 12:02:32.935731
+2024-08-07 12:02:32,935 - INFO - Test duration: 0:00:24.023526
+2024-08-07 12:09:00,703 - INFO - ==================================================
+2024-08-07 12:09:00,704 - INFO - Test started at: 2024-08-07 12:09:00.703407
+2024-08-07 12:09:03,272 - INFO - Home page opened successfully
+2024-08-07 12:09:03,272 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:09:03,373 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:09:05,450 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:09:05,451 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:09:05,465 - INFO - Locations block 'OK'
+2024-08-07 12:09:05,479 - INFO - Teams block 'OK'
+2024-08-07 12:09:05,492 - INFO - Life at Insider block 'OK'
+2024-08-07 12:09:05,492 - INFO - Step 2: page elements checked
+2024-08-07 12:09:07,405 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:09:08,995 - INFO - Clicked on See all QA jobs
+2024-08-07 12:09:08,995 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:09:19,002 - INFO - Quality Assurance department is selected
+2024-08-07 12:09:19,056 - INFO - Clicked on Filter by Location
+2024-08-07 12:09:21,094 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:09:21,094 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:09:26,106 - INFO - Jobs list found with 2 job items
+2024-08-07 12:09:26,124 - ERROR - Job 1: Required information not found
+2024-08-07 12:09:26,124 - ERROR - Unexpected error while checking job listings: Job 1: Required information not found
+2024-08-07 12:09:26,124 - ERROR - Step 3 failed: Job 1: Required information not found
+2024-08-07 12:09:26,137 - INFO - Test ended at: 2024-08-07 12:09:26.137676
+2024-08-07 12:09:26,137 - INFO - Test duration: 0:00:25.434269
+2024-08-07 12:12:15,928 - INFO - ==================================================
+2024-08-07 12:12:15,928 - INFO - Test started at: 2024-08-07 12:12:15.928179
+2024-08-07 12:12:18,773 - INFO - Home page opened successfully
+2024-08-07 12:12:18,773 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:12:19,213 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:12:21,263 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:12:21,263 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:12:21,278 - INFO - Locations block 'OK'
+2024-08-07 12:12:21,291 - INFO - Teams block 'OK'
+2024-08-07 12:12:21,305 - INFO - Life at Insider block 'OK'
+2024-08-07 12:12:21,305 - INFO - Step 2: page elements checked
+2024-08-07 12:12:22,796 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:12:23,646 - INFO - Clicked on See all QA jobs
+2024-08-07 12:12:23,646 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:12:33,655 - INFO - Quality Assurance department is selected
+2024-08-07 12:12:33,713 - INFO - Clicked on Filter by Location
+2024-08-07 12:12:35,749 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:12:35,749 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:12:40,761 - INFO - Jobs list found with 2 job items
+2024-08-07 12:12:40,811 - INFO - Job 1 verified successfully
+2024-08-07 12:12:40,838 - INFO - Job 2 verified successfully
+2024-08-07 12:12:40,838 - INFO - All 2 job listings verified successfully
+2024-08-07 12:12:40,838 - INFO - All job listings verified successfully
+2024-08-07 12:12:40,838 - INFO - Test ended at: 2024-08-07 12:12:40.838195
+2024-08-07 12:12:40,838 - INFO - Test duration: 0:00:24.910016
+2024-08-07 12:14:34,928 - INFO - ==================================================
+2024-08-07 12:14:34,928 - INFO - Test started at: 2024-08-07 12:14:34.928091
+2024-08-07 12:14:37,133 - INFO - Home page opened successfully
+2024-08-07 12:14:37,133 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:14:37,319 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:14:39,285 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:14:39,285 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:14:39,302 - INFO - Locations block 'OK'
+2024-08-07 12:14:39,317 - INFO - Teams block 'OK'
+2024-08-07 12:14:39,331 - INFO - Life at Insider block 'OK'
+2024-08-07 12:14:39,331 - INFO - Step 2: page elements checked
+2024-08-07 12:14:40,955 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:14:41,874 - INFO - Clicked on See all QA jobs
+2024-08-07 12:14:41,874 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:14:51,884 - INFO - Quality Assurance department is selected
+2024-08-07 12:14:51,943 - INFO - Clicked on Filter by Location
+2024-08-07 12:14:53,977 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:14:53,977 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:14:58,989 - INFO - Jobs list found with 2 job items
+2024-08-07 12:14:59,039 - INFO - Job 1 verified successfully
+2024-08-07 12:14:59,067 - INFO - Job 2 verified successfully
+2024-08-07 12:14:59,067 - INFO - All 2 job listings verified successfully
+2024-08-07 12:14:59,067 - INFO - Step 4: All job listings verified successfully
+2024-08-07 12:14:59,067 - ERROR - Step 3 failed: 'OpenPositionsPage' object has no attribute 'click_view_role_and_verify_redirect'
+2024-08-07 12:14:59,068 - INFO - Test ended at: 2024-08-07 12:14:59.068433
+2024-08-07 12:14:59,068 - INFO - Test duration: 0:00:24.140342
+2024-08-07 12:17:16,919 - INFO - ==================================================
+2024-08-07 12:17:16,920 - INFO - Test started at: 2024-08-07 12:17:16.919157
+2024-08-07 12:17:19,341 - INFO - Home page opened successfully
+2024-08-07 12:17:19,343 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:17:19,487 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:17:21,723 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:17:21,723 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:17:21,742 - INFO - Locations block 'OK'
+2024-08-07 12:17:21,761 - INFO - Teams block 'OK'
+2024-08-07 12:17:21,777 - INFO - Life at Insider block 'OK'
+2024-08-07 12:17:21,777 - INFO - Step 2: page elements checked
+2024-08-07 12:17:23,244 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:17:23,869 - INFO - Clicked on See all QA jobs
+2024-08-07 12:17:23,870 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:17:33,872 - ERROR - Step 3 failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00ADD2E3]
+	(No symbol) [0x00B6A64F]
+	(No symbol) [0x00B7C686]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 12:17:33,874 - INFO - Test ended at: 2024-08-07 12:17:33.874227
+2024-08-07 12:17:33,874 - INFO - Test duration: 0:00:16.955070
+2024-08-07 12:17:40,711 - INFO - ==================================================
+2024-08-07 12:17:40,711 - INFO - Test started at: 2024-08-07 12:17:40.711781
+2024-08-07 12:17:42,831 - INFO - Home page opened successfully
+2024-08-07 12:17:42,831 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:17:43,036 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:17:44,943 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:17:44,943 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:17:44,957 - INFO - Locations block 'OK'
+2024-08-07 12:17:44,970 - INFO - Teams block 'OK'
+2024-08-07 12:17:44,983 - INFO - Life at Insider block 'OK'
+2024-08-07 12:17:44,983 - INFO - Step 2: page elements checked
+2024-08-07 12:17:46,572 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:17:47,460 - INFO - Clicked on See all QA jobs
+2024-08-07 12:17:47,460 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:17:57,468 - INFO - Quality Assurance department is selected
+2024-08-07 12:17:57,528 - INFO - Clicked on Filter by Location
+2024-08-07 12:17:59,562 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:17:59,562 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:18:04,572 - INFO - Jobs list found with 2 job items
+2024-08-07 12:18:04,623 - INFO - Job 1 verified successfully
+2024-08-07 12:18:04,651 - INFO - Job 2 verified successfully
+2024-08-07 12:18:04,651 - INFO - All 2 job listings verified successfully
+2024-08-07 12:18:04,651 - INFO - Step 4: All job listings verified successfully
+2024-08-07 12:18:04,658 - INFO - Found 2 'View Role' buttons
+2024-08-07 12:18:05,736 - ERROR - Unexpected error while checking 'View Role' buttons: Message: element click intercepted: Element is not clickable at point (821, 1163)
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B491C7]
+	(No symbol) [0x00B475D9]
+	(No symbol) [0x00B454CB]
+	(No symbol) [0x00B44AAF]
+	(No symbol) [0x00B399EF]
+	(No symbol) [0x00B6441C]
+	(No symbol) [0x00B39485]
+	(No symbol) [0x00B646B4]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 12:18:05,736 - ERROR - Step 3 failed: Message: element click intercepted: Element is not clickable at point (821, 1163)
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B491C7]
+	(No symbol) [0x00B475D9]
+	(No symbol) [0x00B454CB]
+	(No symbol) [0x00B44AAF]
+	(No symbol) [0x00B399EF]
+	(No symbol) [0x00B6441C]
+	(No symbol) [0x00B39485]
+	(No symbol) [0x00B646B4]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 12:18:05,738 - INFO - Test ended at: 2024-08-07 12:18:05.738015
+2024-08-07 12:18:05,738 - INFO - Test duration: 0:00:25.026234
+2024-08-07 12:19:46,616 - INFO - ==================================================
+2024-08-07 12:19:46,616 - INFO - Test started at: 2024-08-07 12:19:46.616741
+2024-08-07 12:19:49,839 - INFO - Home page opened successfully
+2024-08-07 12:19:49,839 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:19:49,957 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:19:52,007 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:19:52,007 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:19:52,022 - INFO - Locations block 'OK'
+2024-08-07 12:19:52,037 - INFO - Teams block 'OK'
+2024-08-07 12:19:52,051 - INFO - Life at Insider block 'OK'
+2024-08-07 12:19:52,051 - INFO - Step 2: page elements checked
+2024-08-07 12:19:53,608 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:19:54,525 - INFO - Clicked on See all QA jobs
+2024-08-07 12:19:54,525 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:20:04,533 - INFO - Quality Assurance department is selected
+2024-08-07 12:20:04,580 - INFO - Clicked on Filter by Location
+2024-08-07 12:20:06,618 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:20:06,618 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:20:11,629 - INFO - Jobs list found with 2 job items
+2024-08-07 12:20:11,680 - INFO - Job 1 verified successfully
+2024-08-07 12:20:11,710 - INFO - Job 2 verified successfully
+2024-08-07 12:20:11,710 - INFO - All 2 job listings verified successfully
+2024-08-07 12:20:11,710 - INFO - Step 4: All job listings verified successfully
+2024-08-07 12:20:21,828 - ERROR - Job items or 'View Role' buttons not found
+2024-08-07 12:20:21,828 - ERROR - Step 3 failed: Message: 
+
+2024-08-07 12:20:21,829 - INFO - Test ended at: 2024-08-07 12:20:21.829569
+2024-08-07 12:20:21,829 - INFO - Test duration: 0:00:35.212828
+2024-08-07 12:21:09,316 - INFO - ==================================================
+2024-08-07 12:21:09,316 - INFO - Test started at: 2024-08-07 12:21:09.316813
+2024-08-07 12:21:11,290 - INFO - Home page opened successfully
+2024-08-07 12:21:11,290 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:21:11,620 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:21:13,801 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:21:13,801 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:21:13,814 - INFO - Locations block 'OK'
+2024-08-07 12:21:13,829 - INFO - Teams block 'OK'
+2024-08-07 12:21:13,841 - INFO - Life at Insider block 'OK'
+2024-08-07 12:21:13,841 - INFO - Step 2: page elements checked
+2024-08-07 12:21:15,445 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:21:16,436 - INFO - Clicked on See all QA jobs
+2024-08-07 12:21:16,436 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:21:26,444 - INFO - Quality Assurance department is selected
+2024-08-07 12:21:26,509 - INFO - Clicked on Filter by Location
+2024-08-07 12:21:28,544 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:21:28,544 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:21:33,555 - INFO - Jobs list found with 2 job items
+2024-08-07 12:21:33,606 - INFO - Job 1 verified successfully
+2024-08-07 12:21:33,634 - INFO - Job 2 verified successfully
+2024-08-07 12:21:33,634 - INFO - All 2 job listings verified successfully
+2024-08-07 12:21:33,634 - INFO - Step 4: All job listings verified successfully
+2024-08-07 12:21:45,761 - ERROR - Job items or 'View Role' buttons not found
+2024-08-07 12:21:45,761 - ERROR - Step 3 failed: Message: 
+
+2024-08-07 12:21:45,762 - INFO - Test ended at: 2024-08-07 12:21:45.762882
+2024-08-07 12:21:45,762 - INFO - Test duration: 0:00:36.446069
+2024-08-07 12:24:15,818 - INFO - ==================================================
+2024-08-07 12:24:15,818 - INFO - Test started at: 2024-08-07 12:24:15.818873
+2024-08-07 12:24:18,107 - INFO - Home page opened successfully
+2024-08-07 12:24:18,107 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:24:18,298 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:24:20,864 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:24:20,864 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:24:20,881 - INFO - Locations block 'OK'
+2024-08-07 12:24:20,894 - INFO - Teams block 'OK'
+2024-08-07 12:24:20,908 - INFO - Life at Insider block 'OK'
+2024-08-07 12:24:20,908 - INFO - Step 2: page elements checked
+2024-08-07 12:24:22,985 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:24:24,847 - INFO - Clicked on See all QA jobs
+2024-08-07 12:24:24,847 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:24:34,856 - INFO - Quality Assurance department is selected
+2024-08-07 12:24:34,910 - INFO - Clicked on Filter by Location
+2024-08-07 12:24:36,943 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:24:36,944 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:24:41,954 - INFO - Jobs list found with 2 job items
+2024-08-07 12:24:42,007 - INFO - Job 1 verified successfully
+2024-08-07 12:24:42,037 - INFO - Job 2 verified successfully
+2024-08-07 12:24:42,037 - INFO - All 2 job listings verified successfully
+2024-08-07 12:24:42,037 - INFO - Step 4: All job listings verified successfully
+2024-08-07 12:24:44,046 - INFO - Found 2 job items
+2024-08-07 12:24:44,320 - INFO - Hovered over job item 1
+2024-08-07 12:24:54,474 - ERROR - Job items or 'View Role' buttons not found
+2024-08-07 12:24:54,474 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B39571]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B39485]
+	(No symbol) [0x00B646B4]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 12:24:54,475 - INFO - Test ended at: 2024-08-07 12:24:54.475427
+2024-08-07 12:24:54,475 - INFO - Test duration: 0:00:38.656554
+2024-08-07 12:25:38,170 - INFO - ==================================================
+2024-08-07 12:25:38,170 - INFO - Test started at: 2024-08-07 12:25:38.170553
+2024-08-07 12:25:40,281 - INFO - Home page opened successfully
+2024-08-07 12:25:40,281 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:25:40,539 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:25:42,816 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:25:42,816 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:25:42,831 - INFO - Locations block 'OK'
+2024-08-07 12:25:42,845 - INFO - Teams block 'OK'
+2024-08-07 12:25:42,859 - INFO - Life at Insider block 'OK'
+2024-08-07 12:25:42,859 - INFO - Step 2: page elements checked
+2024-08-07 12:25:44,478 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:25:45,390 - INFO - Clicked on See all QA jobs
+2024-08-07 12:25:45,390 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:25:55,398 - INFO - Quality Assurance department is selected
+2024-08-07 12:25:55,445 - INFO - Clicked on Filter by Location
+2024-08-07 12:25:57,480 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:25:57,480 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:26:02,491 - INFO - Jobs list found with 2 job items
+2024-08-07 12:26:02,542 - INFO - Job 1 verified successfully
+2024-08-07 12:26:02,573 - INFO - Job 2 verified successfully
+2024-08-07 12:26:02,573 - INFO - All 2 job listings verified successfully
+2024-08-07 12:26:02,573 - INFO - Step 4: All job listings verified successfully
+2024-08-07 12:26:04,581 - INFO - Found 2 job items
+2024-08-07 12:26:04,848 - INFO - Hovered over job item 1
+2024-08-07 12:26:14,989 - ERROR - Job items or 'View Role' buttons not found
+2024-08-07 12:26:14,989 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B39571]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B39485]
+	(No symbol) [0x00B646B4]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 12:26:14,990 - INFO - Test ended at: 2024-08-07 12:26:14.990510
+2024-08-07 12:26:14,990 - INFO - Test duration: 0:00:36.819957
+2024-08-07 12:30:00,813 - INFO - ==================================================
+2024-08-07 12:30:00,814 - INFO - Test started at: 2024-08-07 12:30:00.813046
+2024-08-07 12:30:03,061 - INFO - Home page opened successfully
+2024-08-07 12:30:03,062 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:30:03,190 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:30:05,221 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:30:05,783 - INFO - Clicked on 'Cookies' successfully
+2024-08-07 12:30:05,783 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:30:05,798 - INFO - Locations block 'OK'
+2024-08-07 12:30:05,811 - INFO - Teams block 'OK'
+2024-08-07 12:30:05,825 - INFO - Life at Insider block 'OK'
+2024-08-07 12:30:05,825 - INFO - Step 2: page elements checked
+2024-08-07 12:30:08,307 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:30:09,713 - INFO - Clicked on See all QA jobs
+2024-08-07 12:30:09,713 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:30:19,722 - INFO - Quality Assurance department is selected
+2024-08-07 12:30:19,778 - INFO - Clicked on Filter by Location
+2024-08-07 12:30:21,834 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:30:21,834 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:30:26,846 - INFO - Jobs list found with 2 job items
+2024-08-07 12:30:26,896 - INFO - Job 1 verified successfully
+2024-08-07 12:30:26,924 - INFO - Job 2 verified successfully
+2024-08-07 12:30:26,924 - INFO - All 2 job listings verified successfully
+2024-08-07 12:30:26,924 - INFO - Step 4: All job listings verified successfully
+2024-08-07 12:30:28,934 - INFO - Found 2 job items
+2024-08-07 12:30:29,210 - INFO - Hovered over job item 1
+2024-08-07 12:30:39,348 - ERROR - Job items or 'View Role' buttons not found
+2024-08-07 12:30:39,348 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C08923+23283]
+	(No symbol) [0x00BCE934]
+	(No symbol) [0x00B00733]
+	(No symbol) [0x00B4326F]
+	(No symbol) [0x00B434AB]
+	(No symbol) [0x00B39571]
+	(No symbol) [0x00B64464]
+	(No symbol) [0x00B39485]
+	(No symbol) [0x00B646B4]
+	(No symbol) [0x00B7CB8D]
+	(No symbol) [0x00B641B6]
+	(No symbol) [0x00B38017]
+	(No symbol) [0x00B3890D]
+	GetHandleVerifier [0x00CFA5F3+1013699]
+	GetHandleVerifier [0x00D03E4C+1052700]
+	GetHandleVerifier [0x00CFD4B4+1025668]
+	GetHandleVerifier [0x00C2EA2B+179195]
+	(No symbol) [0x00BD6833]
+	(No symbol) [0x00BD3198]
+	(No symbol) [0x00BD3337]
+	(No symbol) [0x00BCB4BE]
+	BaseThreadInitThunk [0x75D07BA9+25]
+	RtlInitializeExceptionChain [0x77B3C10B+107]
+	RtlClearBits [0x77B3C08F+191]
+
+2024-08-07 12:30:39,349 - INFO - Test ended at: 2024-08-07 12:30:39.349353
+2024-08-07 12:30:39,350 - INFO - Test duration: 0:00:38.536307
+2024-08-07 12:34:53,691 - INFO - ==================================================
+2024-08-07 12:34:53,692 - INFO - Test started at: 2024-08-07 12:34:53.691659
+2024-08-07 12:34:55,993 - INFO - Home page opened successfully
+2024-08-07 12:34:55,993 - INFO - Step 1: Home page opened successfully
+2024-08-07 12:34:56,217 - INFO - Clicked on 'Company menu' successfully
+2024-08-07 12:34:58,452 - INFO - Clicked on 'Careers submenu' successfully
+2024-08-07 12:34:59,023 - INFO - Clicked on 'Cookies' successfully
+2024-08-07 12:34:59,023 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-07 12:34:59,052 - INFO - Locations block 'OK'
+2024-08-07 12:34:59,065 - INFO - Teams block 'OK'
+2024-08-07 12:34:59,079 - INFO - Life at Insider block 'OK'
+2024-08-07 12:34:59,079 - INFO - Step 2: page elements checked
+2024-08-07 12:35:01,522 - INFO - Navigated to Quality Assurance careers page
+2024-08-07 12:35:02,876 - INFO - Clicked on See all QA jobs
+2024-08-07 12:35:02,877 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-07 12:35:12,885 - INFO - Quality Assurance department is selected
+2024-08-07 12:35:12,948 - INFO - Clicked on Filter by Location
+2024-08-07 12:35:15,008 - INFO - Clicked on Filter Location with Istanbul
+2024-08-07 12:35:15,008 - INFO - Step 3: Filtered Location with 'Istanbul' 
+2024-08-07 12:35:20,019 - INFO - Jobs list found with 2 job items
+2024-08-07 12:35:20,071 - INFO - Job 1 verified successfully
+2024-08-07 12:35:20,100 - INFO - Job 2 verified successfully
+2024-08-07 12:35:20,100 - INFO - All 2 job listings verified successfully
+2024-08-07 12:35:20,100 - INFO - Step 4: All job listings verified successfully
+2024-08-07 12:35:22,108 - INFO - Found 2 job items
+2024-08-07 12:35:22,381 - INFO - Hovered over job item 1
+2024-08-07 12:35:22,469 - INFO - Clicked 'View Role' button for job 1
+2024-08-07 12:35:25,299 - INFO - Job 1: Successfully redirected to Lever Application form
+2024-08-07 12:35:25,618 - INFO - Hovered over job item 2
+2024-08-07 12:35:25,700 - INFO - Clicked 'View Role' button for job 2
+2024-08-07 12:35:26,880 - INFO - Job 2: Successfully redirected to Lever Application form
+2024-08-07 12:35:26,936 - INFO - All 'View Role' buttons checked successfully
+2024-08-07 12:35:26,936 - INFO - View Role clicked and redirect verified
+2024-08-07 12:35:26,936 - INFO - Test ended at: 2024-08-07 12:35:26.936931
+2024-08-07 12:35:26,936 - INFO - Test duration: 0:00:33.245272

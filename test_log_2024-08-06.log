@@ -1,0 +1,318 @@
+2024-08-06 20:56:09,263 - INFO - Test started at: 2024-08-06 20:56:09.263606
+2024-08-06 20:56:09,264 - INFO - ==================================================
+2024-08-06 20:56:12,200 - INFO - Home page opened successfully
+2024-08-06 20:56:12,200 - INFO - Step 1: Home page opened successfully
+2024-08-06 20:56:12,344 - INFO - Clicked on Company menu
+2024-08-06 20:56:15,119 - INFO - Clicked on Careers submenu
+2024-08-06 20:56:15,120 - INFO - Successfully navigated to Careers page
+2024-08-06 20:56:15,120 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 20:56:15,120 - INFO - All steps completed successfully
+2024-08-06 20:56:15,120 - INFO - Test ended at: 2024-08-06 20:56:15.120467
+2024-08-06 20:56:15,120 - INFO - Test duration: 0:00:05.856861
+2024-08-06 21:01:19,913 - INFO - ==================================================
+2024-08-06 21:01:19,914 - INFO - Test started at: 2024-08-06 21:01:19.913545
+2024-08-06 21:01:22,431 - INFO - Home page opened successfully
+2024-08-06 21:01:22,431 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:01:22,580 - INFO - Clicked on Company menu
+2024-08-06 21:01:25,001 - INFO - Clicked on Careers submenu
+2024-08-06 21:01:25,001 - INFO - Successfully navigated to Careers page
+2024-08-06 21:01:25,001 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:01:26,628 - ERROR - Step 3 failed: CareersPage.click_see_all_qa_jobs() missing 1 required positional argument: 'self'
+2024-08-06 21:01:26,629 - INFO - Test ended at: 2024-08-06 21:01:26.629077
+2024-08-06 21:01:26,629 - INFO - Test duration: 0:00:06.715532
+2024-08-06 21:06:55,812 - INFO - ==================================================
+2024-08-06 21:06:55,812 - INFO - Test started at: 2024-08-06 21:06:55.812949
+2024-08-06 21:06:58,140 - INFO - Home page opened successfully
+2024-08-06 21:06:58,140 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:06:58,364 - INFO - Clicked on Company menu
+2024-08-06 21:07:00,791 - INFO - Clicked on Careers submenu
+2024-08-06 21:07:00,791 - INFO - Successfully navigated to Careers page
+2024-08-06 21:07:00,791 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:07:02,381 - ERROR - Step 3 failed: CareersPage.click_see_all_qa_jobs() missing 1 required positional argument: 'self'
+2024-08-06 21:07:02,382 - INFO - Test ended at: 2024-08-06 21:07:02.381068
+2024-08-06 21:07:02,382 - INFO - Test duration: 0:00:06.568119
+2024-08-06 21:08:57,603 - INFO - ==================================================
+2024-08-06 21:08:57,603 - INFO - Test started at: 2024-08-06 21:08:57.603956
+2024-08-06 21:09:00,844 - INFO - Home page opened successfully
+2024-08-06 21:09:00,844 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:09:00,984 - INFO - Clicked on Company menu
+2024-08-06 21:09:03,342 - INFO - Clicked on Careers submenu
+2024-08-06 21:09:03,343 - INFO - Successfully navigated to Careers page
+2024-08-06 21:09:03,343 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:09:03,343 - ERROR - Step 3 failed: CareersPage.__init__() takes 2 positional arguments but 3 were given
+2024-08-06 21:09:03,343 - INFO - Test ended at: 2024-08-06 21:09:03.343533
+2024-08-06 21:09:03,343 - INFO - Test duration: 0:00:05.739577
+2024-08-06 21:09:23,030 - INFO - ==================================================
+2024-08-06 21:09:23,031 - INFO - Test started at: 2024-08-06 21:09:23.030713
+2024-08-06 21:09:27,666 - INFO - Home page opened successfully
+2024-08-06 21:09:27,667 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:09:28,146 - INFO - Clicked on Company menu
+2024-08-06 21:09:30,286 - INFO - Clicked on Careers submenu
+2024-08-06 21:09:30,286 - INFO - Successfully navigated to Careers page
+2024-08-06 21:09:30,286 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:09:40,423 - ERROR - Failed to click 'See all QA jobs' button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x75917BA9+25]
+	RtlInitializeExceptionChain [0x779AC10B+107]
+	RtlClearBits [0x779AC08F+191]
+
+2024-08-06 21:09:40,423 - ERROR - Step 3 failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x75917BA9+25]
+	RtlInitializeExceptionChain [0x779AC10B+107]
+	RtlClearBits [0x779AC08F+191]
+
+2024-08-06 21:09:40,424 - INFO - Test ended at: 2024-08-06 21:09:40.424723
+2024-08-06 21:09:40,424 - INFO - Test duration: 0:00:17.394010
+2024-08-06 21:12:58,345 - INFO - ==================================================
+2024-08-06 21:12:58,345 - INFO - Test started at: 2024-08-06 21:12:58.345097
+2024-08-06 21:13:00,795 - INFO - Home page opened successfully
+2024-08-06 21:13:00,796 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:13:00,930 - INFO - Clicked on Company menu
+2024-08-06 21:13:03,238 - INFO - Clicked on Careers submenu
+2024-08-06 21:13:03,238 - INFO - Successfully navigated to Careers page
+2024-08-06 21:13:03,238 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:13:03,238 - ERROR - Failed to click 'See all QA jobs' button: 'CareersPage' object has no attribute 'company_menu'
+2024-08-06 21:13:03,238 - ERROR - Step 3 failed: 'CareersPage' object has no attribute 'company_menu'
+2024-08-06 21:13:03,239 - INFO - Test ended at: 2024-08-06 21:13:03.239324
+2024-08-06 21:13:03,239 - INFO - Test duration: 0:00:04.894227
+2024-08-06 21:14:06,838 - INFO - ==================================================
+2024-08-06 21:14:06,838 - INFO - Test started at: 2024-08-06 21:14:06.838350
+2024-08-06 21:14:09,234 - INFO - Home page opened successfully
+2024-08-06 21:14:09,234 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:14:09,367 - INFO - Clicked on Company menu
+2024-08-06 21:14:11,738 - INFO - Clicked on Careers submenu
+2024-08-06 21:14:11,738 - INFO - Successfully navigated to Careers page
+2024-08-06 21:14:11,738 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:14:11,738 - ERROR - Step 3 failed: cannot access local variable 'careers_page' where it is not associated with a value
+2024-08-06 21:14:11,739 - INFO - Test ended at: 2024-08-06 21:14:11.739316
+2024-08-06 21:14:11,739 - INFO - Test duration: 0:00:04.900966
+2024-08-06 21:15:32,363 - INFO - ==================================================
+2024-08-06 21:15:32,363 - INFO - Test started at: 2024-08-06 21:15:32.363056
+2024-08-06 21:15:35,066 - INFO - Home page opened successfully
+2024-08-06 21:15:35,066 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:15:35,201 - INFO - Clicked on Company menu
+2024-08-06 21:15:37,446 - INFO - Clicked on Careers submenu
+2024-08-06 21:15:37,447 - INFO - Successfully navigated to Careers page
+2024-08-06 21:15:37,447 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:15:39,099 - INFO - Navigated to Quality Assurance careers page
+2024-08-06 21:15:39,099 - ERROR - Failed to click 'See all QA jobs' button: 'CareersPage' object has no attribute 'company_menu'
+2024-08-06 21:15:39,100 - ERROR - Step 3 failed: 'CareersPage' object has no attribute 'company_menu'
+2024-08-06 21:15:39,100 - INFO - Test ended at: 2024-08-06 21:15:39.100871
+2024-08-06 21:15:39,100 - INFO - Test duration: 0:00:06.737815
+2024-08-06 21:16:22,656 - INFO - ==================================================
+2024-08-06 21:16:22,657 - INFO - Test started at: 2024-08-06 21:16:22.656364
+2024-08-06 21:16:25,281 - INFO - Home page opened successfully
+2024-08-06 21:16:25,281 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:16:25,597 - INFO - Clicked on Company menu
+2024-08-06 21:16:28,138 - INFO - Clicked on Careers submenu
+2024-08-06 21:16:28,138 - INFO - Successfully navigated to Careers page
+2024-08-06 21:16:28,138 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:16:29,667 - INFO - Navigated to Quality Assurance careers page
+2024-08-06 21:16:30,625 - INFO - Clicked on See all QA jobs
+2024-08-06 21:16:30,625 - INFO - Clicked on 'See all QA jobs' button
+2024-08-06 21:16:30,625 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-06 21:16:30,626 - INFO - Test ended at: 2024-08-06 21:16:30.625218
+2024-08-06 21:16:30,626 - INFO - Test duration: 0:00:07.968854
+2024-08-06 21:24:58,401 - INFO - ==================================================
+2024-08-06 21:24:58,402 - INFO - Test started at: 2024-08-06 21:24:58.401061
+2024-08-06 21:25:00,981 - INFO - Home page opened successfully
+2024-08-06 21:25:00,981 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:25:01,121 - INFO - Clicked on Company menu
+2024-08-06 21:25:03,387 - INFO - Clicked on Careers submenu
+2024-08-06 21:25:03,387 - INFO - Successfully navigated to Careers page
+2024-08-06 21:25:03,387 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:25:04,950 - INFO - Navigated to Quality Assurance careers page
+2024-08-06 21:25:05,943 - INFO - Clicked on See all QA jobs
+2024-08-06 21:25:05,943 - INFO - Clicked on 'See all QA jobs' button.
+2024-08-06 21:25:05,943 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-06 21:25:05,944 - INFO - Test ended at: 2024-08-06 21:25:05.944350
+2024-08-06 21:25:05,944 - INFO - Test duration: 0:00:07.543289
+2024-08-06 21:27:43,796 - INFO - ==================================================
+2024-08-06 21:27:43,797 - INFO - Test started at: 2024-08-06 21:27:43.796410
+2024-08-06 21:27:46,884 - INFO - Home page opened successfully
+2024-08-06 21:27:46,884 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:27:47,134 - INFO - Clicked on Company menu
+2024-08-06 21:27:49,318 - INFO - Clicked on Careers submenu
+2024-08-06 21:27:49,318 - INFO - Successfully navigated to Careers page
+2024-08-06 21:27:49,318 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:27:50,888 - INFO - Navigated to Quality Assurance careers page
+2024-08-06 21:27:51,842 - INFO - Clicked on See all QA jobs
+2024-08-06 21:27:51,842 - INFO - Clicked on 'See all QA jobs' button.
+2024-08-06 21:27:51,842 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-06 21:27:51,857 - ERROR - Failed to click on Filter by Location: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //*[@id='select2-filter-by-location-container''] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id='select2-filter-by-location-container'']' is not a valid XPath expression."}
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00C860DF]
+	(No symbol) [0x00C87A88]
+	(No symbol) [0x00C87B00]
+	(No symbol) [0x00CC3027]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x75917BA9+25]
+	RtlInitializeExceptionChain [0x779AC10B+107]
+	RtlClearBits [0x779AC08F+191]
+
+2024-08-06 21:27:51,857 - ERROR - Failed to click 'See all QA jobs' button: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //*[@id='select2-filter-by-location-container''] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id='select2-filter-by-location-container'']' is not a valid XPath expression."}
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00C860DF]
+	(No symbol) [0x00C87A88]
+	(No symbol) [0x00C87B00]
+	(No symbol) [0x00CC3027]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x75917BA9+25]
+	RtlInitializeExceptionChain [0x779AC10B+107]
+	RtlClearBits [0x779AC08F+191]
+
+2024-08-06 21:27:51,857 - ERROR - Step 3 failed: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //*[@id='select2-filter-by-location-container''] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id='select2-filter-by-location-container'']' is not a valid XPath expression."}
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00C860DF]
+	(No symbol) [0x00C87A88]
+	(No symbol) [0x00C87B00]
+	(No symbol) [0x00CC3027]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x75917BA9+25]
+	RtlInitializeExceptionChain [0x779AC10B+107]
+	RtlClearBits [0x779AC08F+191]
+
+2024-08-06 21:27:51,860 - INFO - Test ended at: 2024-08-06 21:27:51.860529
+2024-08-06 21:27:51,860 - INFO - Test duration: 0:00:08.064119
+2024-08-06 21:28:20,957 - INFO - ==================================================
+2024-08-06 21:28:20,957 - INFO - Test started at: 2024-08-06 21:28:20.957349
+2024-08-06 21:28:23,649 - INFO - Home page opened successfully
+2024-08-06 21:28:23,649 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:28:23,781 - INFO - Clicked on Company menu
+2024-08-06 21:28:26,065 - INFO - Clicked on Careers submenu
+2024-08-06 21:28:26,065 - INFO - Successfully navigated to Careers page
+2024-08-06 21:28:26,065 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:28:27,673 - INFO - Navigated to Quality Assurance careers page
+2024-08-06 21:28:28,653 - INFO - Clicked on See all QA jobs
+2024-08-06 21:28:28,653 - INFO - Clicked on 'See all QA jobs' button.
+2024-08-06 21:28:28,654 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-06 21:28:30,240 - INFO - Clicked on Filter by Location
+2024-08-06 21:28:30,240 - INFO - Clicked on 'Filter by Location' element.
+2024-08-06 21:28:30,240 - INFO - Step 3: Clicked 'Filter by Location' successfully
+2024-08-06 21:28:30,240 - INFO - Test ended at: 2024-08-06 21:28:30.240535
+2024-08-06 21:28:30,240 - INFO - Test duration: 0:00:09.283186
+2024-08-06 21:30:45,647 - INFO - ==================================================
+2024-08-06 21:30:45,647 - INFO - Test started at: 2024-08-06 21:30:45.647633
+2024-08-06 21:30:49,788 - INFO - Home page opened successfully
+2024-08-06 21:30:49,788 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:30:49,920 - INFO - Clicked on Company menu
+2024-08-06 21:30:52,122 - INFO - Clicked on Careers submenu
+2024-08-06 21:30:52,122 - INFO - Successfully navigated to Careers page
+2024-08-06 21:30:52,122 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:30:53,708 - INFO - Navigated to Quality Assurance careers page
+2024-08-06 21:30:54,794 - INFO - Clicked on See all QA jobs
+2024-08-06 21:30:54,794 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-06 21:30:56,398 - INFO - Clicked on Filter by Location
+2024-08-06 21:30:56,398 - INFO - Step 3: Clicked 'Filter by Location' successfully
+2024-08-06 21:30:56,398 - INFO - Test ended at: 2024-08-06 21:30:56.398321
+2024-08-06 21:30:56,398 - INFO - Test duration: 0:00:10.750688
+2024-08-06 21:33:26,959 - INFO - ==================================================
+2024-08-06 21:33:26,959 - INFO - Test started at: 2024-08-06 21:33:26.959767
+2024-08-06 21:33:29,413 - INFO - Home page opened successfully
+2024-08-06 21:33:29,413 - INFO - Step 1: Home page opened successfully
+2024-08-06 21:33:29,569 - INFO - Clicked on 'Company menu'
+2024-08-06 21:33:31,981 - INFO - Clicked on 'Careers submenu'
+2024-08-06 21:33:31,981 - INFO - Step 2: Navigated to Careers page successfully
+2024-08-06 21:33:33,679 - INFO - Navigated to Quality Assurance careers page
+2024-08-06 21:33:34,635 - INFO - Clicked on See all QA jobs
+2024-08-06 21:33:34,635 - INFO - Step 3: Clicked 'See all QA jobs' successfully
+2024-08-06 21:33:36,221 - INFO - Clicked on Filter by Location
+2024-08-06 21:33:36,221 - INFO - Step 3: Clicked 'Filter by Location' successfully
+2024-08-06 21:33:36,221 - INFO - Test ended at: 2024-08-06 21:33:36.221210
+2024-08-06 21:33:36,221 - INFO - Test duration: 0:00:09.261443

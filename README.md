@@ -26,7 +26,11 @@ cd InsiderTestCase
 ```
 pip install -r requirements.txt
 ```
-   
+4. Navigate to the tests directory:
+
+```
+cd tests
+```   
 5. Run the test:
 ```
 python test_insider_career.py

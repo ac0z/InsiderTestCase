@@ -9,7 +9,7 @@ class OpenPositionsPage:
     def __init__(self, driver, logger):
         self.driver = driver
         self.logger = logger
-
+#Job listing check for view
     def check_job_listings(self):
         try:
             # Find the jobs-list element
@@ -50,7 +50,7 @@ class OpenPositionsPage:
         except Exception as e:
             self.logger.error(f"Unexpected error while checking job listings: {str(e)}")
             raise   
-
+#Check elements that has 'viewrole' hover on them
     def check_all_view_role_buttons(self):
         try:
             # Find all job list items

@@ -33,7 +33,7 @@ cd tests
 ```   
 5. Run the test:
 ```
-python test_insider_career.py
+python -m unittest tests/test_insider_careers.py
 ```
 
 Note: You need to have Python and Chrome browser installed on your system to run this test.

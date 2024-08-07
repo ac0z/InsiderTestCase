@@ -1,4 +1,5 @@
 import unittest
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from utils.webdriver import get_driver
@@ -96,10 +97,13 @@ class InsiderTest(unittest.TestCase):
             self.logger.info("Step 3: Clicked 'See all QA jobs' successfully") 
     # Wait for Department element to load
             time.sleep(10)
+            self.driver.execute_script(f"window.scrollBy(0, 180);")
             careers_page.assert_qa_department_selected()
             careers_page.filter_by_location()
             self.logger.info("Step 3: Filtered Location with 'Istanbul' ") 
             time.sleep(5)
+            action = ActionChains(self.driver) # Click empty space
+            action.move_by_offset(45, 500).click().perform()
             careers_page.assert_jobs_list_exists_and_not_empty()
         except Exception as e:
             self.logger.error(f"Step 3 failed: {str(e)}")

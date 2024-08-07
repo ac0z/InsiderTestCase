@@ -23,9 +23,9 @@ class HomePage:
 
     def navigate_to_careers(self):
         try:
-            self.click_company_menu()
-            self.click_careers_submenu()
-            self.click_cookies()
+            self.click_company_menu() #company click
+            self.click_careers_submenu() #submenu click
+            self.click_cookies()  #cookie accept
         except Exception as e:
             self.logger.error(f"Failed to navigate to Careers page: {str(e)}")
             raise

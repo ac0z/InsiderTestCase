@@ -104,7 +104,7 @@ class InsiderTest(unittest.TestCase):
         try:
             time.sleep(2)
             open_positions_page.check_all_view_role_buttons()
-            self.logger.info("Step5: View Role clicked and redirect verified")
+            self.logger.info("Step 5: View Role clicked and redirect verified")
         except Exception as e:
             self.logger.error(f"Step 5 failed: {str(e)}")
             raise

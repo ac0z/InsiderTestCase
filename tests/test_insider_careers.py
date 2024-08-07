@@ -109,23 +109,5 @@ class InsiderTest(unittest.TestCase):
             self.logger.error(f"Step 5 failed: {str(e)}")
             raise
 
-
-        
-            
-      
-
-        # open_positions_page = OpenPositionsPage(self.driver)
-        # open_positions_page.filter_jobs("Istanbul, Turkey", "Quality Assurance")
-
-        # # Step 4: Check job listings
-        # open_positions_page.check_job_listings("Quality Assurance", "Quality Assurance", "Istanbul, Turkey")
-
-        # # Step 5: Click View Role and check redirection
-        # open_positions_page.click_view_role()
-        # WebDriverWait(self.driver, 10).until(EC.url_contains("jobs.lever.co"))
-        # assert "jobs.lever.co" in self.driver.current_url, "Not redirected to Lever Application form"
-
-        # self.logger.info("All steps completed successfully")
-
 if __name__ == "__main__":
     unittest.main()

@@ -71,7 +71,7 @@ class CareersPage:
                 return jobsList ? jobsList.children.length : 0;
             """)
             
-            # AssCheck with assert
+            # Count check > 0 with assert
             assert child_count > 0, f"Jobs list is empty. Found {child_count} job items."
             
             self.logger.info(f"Jobs list found with {child_count} job items")

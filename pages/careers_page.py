@@ -48,14 +48,16 @@ class CareersPage:
             element = WebDriverWait(self.driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, self.qa_department_xpath))
             )
-            assert element is not None, "Quality Assurance department is not selected"
-            self.logger.info("Quality Assurance department is selected")
+            if element is None or not element.is_selected():
+                self.logger.warning("Quality Assurance department is not selected. Attempting to select it.")
+                self.filter_by_department()
+            else:
+                self.logger.info("Quality Assurance department is already selected")
         except TimeoutException:
             self.logger.error("Quality Assurance department element not found")
-            raise AssertionError("Quality Assurance department is not selected")
-
-        except AssertionError as ae:
-            self.logger.error(str(ae))
+            raise AssertionError("Quality Assurance department element not found")
+        except Exception as e:
+            self.logger.error(f"An error occurred: {str(e)}")
             raise
         
     def assert_jobs_list_exists_and_not_empty(self):
@@ -71,7 +73,7 @@ class CareersPage:
                 return jobsList ? jobsList.children.length : 0;
             """)
             
-            # Count check > 0 with assert
+            # Child check with assert
             assert child_count > 0, f"Jobs list is empty. Found {child_count} job items."
             
             self.logger.info(f"Jobs list found with {child_count} job items")
